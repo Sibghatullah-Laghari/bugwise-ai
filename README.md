@@ -80,7 +80,3 @@ bugwise-ai/
 └── tests/
     └── test_core.py
 ```
-
-## License
-
-A license has not yet been selected.
