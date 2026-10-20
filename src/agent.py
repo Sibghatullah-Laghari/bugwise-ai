@@ -1,5 +1,6 @@
 
 from src.quality_assessment import assess_bug_report
+#.
 
 QUESTIONS = {
     "title": "Can you provide a specific title identifying the affected feature and the failure?",
@@ -17,7 +18,7 @@ def get_clarification_questions(report):
 
     questions = []
 
-    for key, question in QUESTIONS.items():
+    for key, question in QUESTIONS.items():``
         if not field_results[key]["valid"]:
             questions.append(question)
 
