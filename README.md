@@ -99,6 +99,6 @@ The current implementation is intentionally explainable and deterministic. It do
 
 - Add a human-annotation workflow for quality labels.
 - Prepare evaluation scripts for labelled datasets and benchmark comparisons.
-- Expand the rule set with more domain-aware heuristics.
+- Expand the rule set with more domain-aware heuristics....
 - Explore optional NLP enhancements without replacing the transparent rule-based engine.
-- Add more regression tests for edge cases and real-world bug reports.
+- Add more regression tests for edge cases and real-world bug reports..
