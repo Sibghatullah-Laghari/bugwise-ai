@@ -93,12 +93,12 @@ The system explains the status with a reason, supporting evidence excerpt, and a
 
 ## Heuristic Assessment vs. Trained Model Performance
 
-The current implementation is intentionally explainable and deterministic. It does not use severity labels as a proxy for report quality, and it does not claim machine-learning accuracy. If a labelled dataset becomes available, the project can later add a separate evaluation script that compares the rule-based engine against reviewed quality labels.
+The current implementation is intentionally explainable and deterministic. It does not use severity labels as a proxy for report quality, and it does not claim machine-learning accuracy. If a labelled dataset becomes available, the project can later add a separate evaluation script that compares the rule-based engine against reviewed quality labels..
 
 ## Future Roadmap
 
-- Add a human-annotation workflow for quality labels.
-- Prepare evaluation scripts for labelled datasets and benchmark comparisons.
+- Add a human-annotation workflow for quality labels..
+- Prepare evaluation scripts for labelled datasets and benchmark comparisons..
 - Expand the rule set with more domain-aware heuristics....
 - Explore optional NLP enhancements without replacing the transparent rule-based engine.
 - Add more regression tests for edge cases and real-world bug reports..
