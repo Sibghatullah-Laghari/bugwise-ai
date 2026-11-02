@@ -1,7 +1,7 @@
 
 # BugWise AI
 
-BugWise AI is a rule-based Streamlit application for assessing the quality of software bug reports before they are handed to a development team. It helps users spot missing information, weak reproduction steps, vague expected or actual behavior, and incomplete environment details.
+BugWise AI is a rule-based Streamlit application for assessing the quality of software bug reports before they are handed to a development team. It helps users spot missing information, weak reproduction steps, vague expected or actual behavior, and incomplete environment details..
 
 ## Main Features
 
