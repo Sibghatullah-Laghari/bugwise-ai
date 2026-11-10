@@ -84,18 +84,18 @@ Each field is assigned one of the following statuses:
 
 The system explains the status with a reason, supporting evidence excerpt, and an actionable suggestion.
 
-## Known Limitations
+## Known Limitations:
 
 - This is a transparent rule-based prototype, not a validated model.
 - It detects likely quality issues using deterministic heuristics rather than learned predictions.
 - It does not claim measured accuracy against a labelled benchmark unless such a benchmark exists.
 - It is designed to support future evaluation with human-reviewed reports and labelled examples.
 
-## Heuristic Assessment vs. Trained Model Performance
+## Heuristic Assessment vs. Trained Model Performance:
 
 The current implementation is intentionally explainable and deterministic. It does not use severity labels as a proxy for report quality, and it does not claim machine-learning accuracy. If a labelled dataset becomes available, the project can later add a separate evaluation script that compares the rule-based engine against reviewed quality labels..
 
-## Future Roadmap
+## Future Roadmap:
 
 - Add a human-annotation workflow for quality labels..
 - Prepare evaluation scripts for labelled datasets and benchmark comparisons.
@@ -103,4 +103,4 @@ The current implementation is intentionally explainable and deterministic. It do
 - Explore optional NLP enhancements without replacing the transparent rule-based engine.
 - Add more regression tests for edge cases and real-world bug reports..
 
-## Contributions:-
+## Contributions:
