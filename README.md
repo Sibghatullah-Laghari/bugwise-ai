@@ -5,7 +5,7 @@ BugWise AI is a rule-based Streamlit application for assessing the quality of so
 
 ## Main Features
 
-- Structured form with six required fields:
+- Structured form with six required fields:-
   - Bug title
   - Bug description
   - Steps to reproduce
