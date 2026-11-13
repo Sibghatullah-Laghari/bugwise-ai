@@ -17,7 +17,7 @@ BugWise AI is a rule-based Streamlit application for assessing the quality of so
 - Targeted clarification questions based on the known gaps.
 - Structured improved Markdown report preserving the reporter's original facts.
 - Downloadable Markdown output.
-- Deterministic pytest suite for assessment logic and report generation.
+- Deterministic pytest suite for assessment logic and report generation..
 
 ## Project Structure
 
