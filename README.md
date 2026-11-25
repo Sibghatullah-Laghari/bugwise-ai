@@ -12,7 +12,7 @@ BugWise AI is a rule-based Streamlit application for assessing the quality of so
   - Expected behavior
   - Actual behavior
   - Environment details
-- Transparent completeness calculation based on meaningful field content rather than raw text presence.
+- Transparent completeness calculation based on meaningful field content rather than raw text presence..
 - Field-by-field status labels: missing, insufficient, unclear, and adequate.
 - Targeted clarification questions based on the known gaps..
 - Structured improved Markdown report preserving the reporter's original facts.
